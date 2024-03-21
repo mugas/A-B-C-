@@ -1,0 +1,15 @@
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\bin\Debug\net8.0\ifandthen.exe
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\bin\Debug\net8.0\ifandthen.deps.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\bin\Debug\net8.0\ifandthen.runtimeconfig.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\bin\Debug\net8.0\ifandthen.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\bin\Debug\net8.0\ifandthen.pdb
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\ifandthen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\ifandthen.AssemblyInfoInputs.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\ifandthen.AssemblyInfo.cs
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\ifandthen.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\ifandthen.sourcelink.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\ifandthen.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\refint\ifandthen.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\ifandthen.pdb
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\ifandthen.genruntimeconfig.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\ifandthen\obj\Debug\net8.0\ref\ifandthen.dll
