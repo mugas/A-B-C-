@@ -1,0 +1,15 @@
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\bin\Debug\net8.0\Boolean.exe
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\bin\Debug\net8.0\Boolean.deps.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\bin\Debug\net8.0\Boolean.runtimeconfig.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\bin\Debug\net8.0\Boolean.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\bin\Debug\net8.0\Boolean.pdb
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\Boolean.AssemblyInfoInputs.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\Boolean.AssemblyInfo.cs
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\Boolean.sourcelink.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\Boolean.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\refint\Boolean.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\Boolean.pdb
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\Boolean.genruntimeconfig.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Boolean\obj\Debug\net8.0\ref\Boolean.dll
