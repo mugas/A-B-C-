@@ -1,0 +1,15 @@
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\do_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\do_while.AssemblyInfoInputs.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\do_while.AssemblyInfo.cs
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\do_while.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\do_while.sourcelink.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\bin\Debug\net8.0\do_while.exe
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\bin\Debug\net8.0\do_while.deps.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\bin\Debug\net8.0\do_while.runtimeconfig.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\bin\Debug\net8.0\do_while.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\bin\Debug\net8.0\do_while.pdb
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\do_while.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\refint\do_while.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\do_while.pdb
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\do_while.genruntimeconfig.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\do_while\obj\Debug\net8.0\ref\do_while.dll

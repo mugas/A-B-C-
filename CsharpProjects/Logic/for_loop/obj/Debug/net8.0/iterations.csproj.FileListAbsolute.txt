@@ -1,0 +1,15 @@
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\bin\Debug\net8.0\iterations.exe
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\bin\Debug\net8.0\iterations.deps.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\bin\Debug\net8.0\iterations.runtimeconfig.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\bin\Debug\net8.0\iterations.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\bin\Debug\net8.0\iterations.pdb
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\iterations.AssemblyInfoInputs.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\iterations.AssemblyInfo.cs
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\iterations.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\iterations.sourcelink.json
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\iterations.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\refint\iterations.dll
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\iterations.pdb
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\iterations.genruntimeconfig.cache
+C:\Users\ricar\Documents\GSCreations\Code\A,B,C,#\CsharpProjects\Logic\iterations\obj\Debug\net8.0\ref\iterations.dll
